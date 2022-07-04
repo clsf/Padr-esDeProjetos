@@ -1,5 +1,4 @@
-package Bridge;
-
+package Bridge.comPadrao;
 
 
 public class ControleAvancado extends ControleBasico {

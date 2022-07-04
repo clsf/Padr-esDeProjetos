@@ -1,4 +1,4 @@
-package Bridge;
+package Bridge.comPadrao;
 
 
 public interface Dispositivo {

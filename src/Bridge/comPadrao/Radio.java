@@ -1,4 +1,4 @@
-package Bridge;
+package Bridge.comPadrao;
 
 	public class Radio implements Dispositivo {
 		private boolean on = false;
