@@ -5,6 +5,7 @@ import java.text.ParseException;
 
 public class main {
 	public static void main(String[] args) throws ParseException {
+		System.out.println("Sem Padrão:");
 		BotaoAdc btadc = new BotaoAdc();
 		BotaoRemover btRemover = new BotaoRemover();
 		

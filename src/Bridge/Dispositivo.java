@@ -1,3 +1,5 @@
+package Bridge;
+
 
 public interface Dispositivo {
 	boolean isEnabled();
