@@ -4,16 +4,16 @@ public class Main {
 	
 	
 	public static void main(String args[]) {
-		ControleBasicoTV basicoTV = new ControleBasicoTV();
-		basicoTV.power();
+		QuadradoAzul qa = new QuadradoAzul();
+		qa.desenhar();
 		
-		ControleAvancadoTV avancadoTV = new ControleAvancadoTV();
-		avancadoTV.mute();
+		QuadradoVerde qv = new QuadradoVerde();
+		qv.desenhar();
 		
-		ControleBasicoRadio basicoRadio = new ControleBasicoRadio();
-		basicoRadio.power();
+		CirculoVerde ca = new CirculoVerde();
+		ca.desenhar();
 		
-		ControleAvancadoRadio avancadoRadio = new ControleAvancadoRadio();
-		avancadoRadio.mute();
+		CirculoVermelho cv = new CirculoVermelho();
+		cv.desenhar();
 	}
 }
