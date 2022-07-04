@@ -1,6 +1,6 @@
 package Bridge.comPadrao;
 
-public class Quadrado implements Forma {
+public class Quadrado extends Forma {
 	private Cor cor;
 	
 	public Quadrado(Cor cor) {

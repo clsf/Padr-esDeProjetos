@@ -1,5 +1,5 @@
 package Bridge.comPadrao;
 
-public interface Forma {
-	public void desenhar();
+public abstract class Forma {
+	public abstract void desenhar();
 }

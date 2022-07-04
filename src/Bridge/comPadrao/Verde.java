@@ -1,6 +1,6 @@
 package Bridge.comPadrao;
 
-public class Verde implements Cor {
+public class Verde extends Cor {
 
 	public String pegarCor() {
 		return "verde";

@@ -1,6 +1,6 @@
 package Bridge.comPadrao;
 
-public class Circulo implements Forma{
+public class Circulo extends Forma{
 	private Cor cor;
 	
 	public Circulo(Cor cor) {
