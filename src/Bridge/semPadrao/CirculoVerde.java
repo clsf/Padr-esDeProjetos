@@ -1,7 +1,7 @@
 package Bridge.semPadrao;
 
-public class CirculoVerde {
+public class CirculoVerde implements Forma {
 	public void desenhar() {
-		System.out.println("Desenhando circulo azul");
+		System.out.println("Desenhando circulo verde");
 	}
 }
